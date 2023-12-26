@@ -1,0 +1,17 @@
+
+        body {
+            background-color: rgb(217, 217, 133);
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+
+        }
+        h1{
+            font-size: 30;
+        }
+.first{
+    color: brown;
+}
+#your-name{
+    color: antiquewhite;
+}
+
